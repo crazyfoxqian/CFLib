@@ -1,0 +1,6 @@
+framework module Pods_CFLib_Example {
+  umbrella header "Pods-CFLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

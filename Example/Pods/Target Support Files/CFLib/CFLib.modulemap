@@ -1,0 +1,6 @@
+framework module CFLib {
+  umbrella header "CFLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

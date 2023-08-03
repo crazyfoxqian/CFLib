@@ -1,0 +1,22 @@
+{
+  "name": "CFLib",
+  "version": "0.1.0",
+  "summary": "A short description of CFLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qianbingzhen/CFLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qianbingzhen": "2653286649@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/qianbingzhen/CFLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CFLib/Classes/**/*"
+}
